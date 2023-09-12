@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Kalam', cursive;
+}
+.h1_p{
+    height: 150px;
+    font-size: 220%;
+    background-color: #acb3c1;
+    color: rgb(104, 102, 102);
+    text-align: center;
+    width: 65%;
+    float: right;
+}
+h1{
+    text-transform: uppercase;
+}
+.h1_l{
+    height: 150px;
+    font-size: 220%;
+    background-color: #acb3c1;
+    width: 35%;
+    float: left;
+}
+.h2{
+    clear: both;
+    height: 50px;
+    background-color: rgb(104, 102, 102);
+    color: white;
+}
+.text{
+    text-align: right;
+    align-items: center;
+    display: flex;
+    justify-content: right;
+    flex-wrap: nowrap;
+    margin: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.graf_dom{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    padding-top: 50px;
+}
+a{
+    color: rgb(177, 172, 172);
+    text-align: right;
+    padding-right: 100px;
+    padding-bottom: 30px;
+}
+.img1{
+    height: 150px;
+    border-radius: 5%;
+    box-shadow: dimgray 2px 2px 2px;
+    margin-left: 10px;
+}
+.img2{
+    height: 150px;
+    border-radius: 5%;
+    box-shadow: dimgray 2px 2px 2px;
+    margin-left: 10px;
+}
+.img3{
+    height: 150px;
+    border-radius: 5%;
+    box-shadow: dimgray 1px 1px 1px;
+    margin-left: 10px;
+}
+.obsz_dział{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    padding: 100px;
+}
+.text1{
+    text-align: left;
+    word-wrap: normal;
+}
+.img4{
+    height: 300px;
+    border-radius: 5%;
+    box-shadow: dimgray 1px 1px 1px;
+}
+.o_nas{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    padding: 100px;
+}
+.text2{
+    text-align: right;
+    word-wrap: normal;
+}
+.img5{
+    height: 300px;
+    border-radius: 5%;
+    box-shadow: dimgray 1px 1px 1px;
+}
+.kontakt{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    padding: 100px;
+}
+.text3{
+    text-align: left;
+    word-wrap: normal;
+}
+.img6{
+    height: 150px;
+    border-radius: 5%;
+}
+.ft{
+    clear: both;
+    height: 100px;
+    background-color: rgb(104, 102, 102);
+    color: white;
+    padding-top: 40px;
+    padding-left: 20px;
+}
